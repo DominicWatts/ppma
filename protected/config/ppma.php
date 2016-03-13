@@ -4,8 +4,8 @@ return array (
   'db' => 
   array (
     'server' => '127.0.0.1',
-    'username' => 'root',
-    'password' => 'password',
+    'username' => 'bitnami',
+    'password' => 'bitnami',
     'name' => 'ppma',
   ),
   'isInstalled' => false,
